@@ -8,13 +8,13 @@
         <version>0.1</version>
     </parent>
 
-    <groupId>eu.antykanar.pom</groupId>
+    <groupId>net.antykanar.pom</groupId>
     <artifactId>antykanar</artifactId>
     <packaging>apk</packaging>
     <version>0.0.1-SNAPSHOT</version>
 
     <name>${project.artifactId}-${project.version}</name>
-    <url>www.antykanar.eu</url>
+    <url>www.antykanar.net</url>
     <properties>
         <android.manifest.versionName>1.0</android.manifest.versionName>
         <android.manifest.versionCode>1</android.manifest.versionCode>

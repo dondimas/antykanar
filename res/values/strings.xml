@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">wordweb</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="licence">1.     DEFINITIONS.
+
+        1.1     “Customer” shall mean an entity or person who places an order for Supplier’s Products or Services with the Reseller.
+        \n\n
+        1.2     “Customer Agreement” shall mean the written agreement the Reseller executes directly with its Customer that includes an order for one or more of the Products or Services and governs the business relationship between the Reseller and Customer, subject to the EULA referenced in Section 5.4.
+        \n\n
+        1.3     “Deliverables” shall mean all Products and Services that Supplier is obligated to deliver to Reseller as provided in this Agreement.
+
+        associated Documentation, which Supplier makes available to Reseller hereunder.
+        \n\n
+        1.6     “Services” shall mean the consulting, custom software development, system engineering or other services that are identified in Appendix A. 
+        \n\n
+        1.7     “Technology” shall mean Supplier’s proprietary technology, including services, software tools, hardware designs, algorithms, software (in source and object forms), user interface designs, architecture, class libraries, objects and documentation (both printed and electronic), network designs, know-how, trade secrets and any related intellectual property rights throughout the world </string><string name="find_word_hint">Type a word...</string>
+    <string name="home">Home</string>
+    <string name="collect_word">Collect</string>
+    <string name="add_word_dialog_message">Add this word to your list</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_words">Delete</string>
+    <string name="select_words">Select</string>
+    <string name="choose_bus">Wybirz sriodek transportu</string>
+</resources>

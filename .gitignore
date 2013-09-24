@@ -1,0 +1,7 @@
+target/
+.lastUpdated
+.idea/
+*iml
+project.properties
+tmp/
+out/

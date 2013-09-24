@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DictionaryValueTextView">
+        <item name="android:textColor">@color/licence_text_color</item>
+        <item name="android:background">@color/licence_background_color</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:padding">5dp</item>
+    </style>
+    <style name="SpinnerStyle">
+        <item name="android:layout_height">48dp</item>
+    </style>
+    <style name="ButtonText" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style>
+</resources>
